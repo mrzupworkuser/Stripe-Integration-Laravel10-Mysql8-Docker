@@ -121,5 +121,4 @@ To track the failed payment status, we can set the webhook with “payment_inten
 
 
 ## Note:
-
 - In general behaviour, SuperAdmin do not purchase the products. So the Purchase button is intentinally disabled in this case.
